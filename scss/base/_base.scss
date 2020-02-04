@@ -1,0 +1,23 @@
+* {
+    transition: all .1s ease-in-out;
+}
+  
+ul li {
+    list-style-type: none; 
+}
+  
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+ 
+.wrapper {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
